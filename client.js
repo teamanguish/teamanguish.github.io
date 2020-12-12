@@ -12,6 +12,10 @@ $(document).ready(function() {
             name: 'lai mai',
             link: 'https://steamcommunity.com/id/D4IGGI3RRIE/'
     },
+    	{
+            name: 'wogat',
+            link: 'https://steamcommunity.com/id/wogat/'
+    },
     ];
 
     for(var i in links) {
