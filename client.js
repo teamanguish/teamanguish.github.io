@@ -15,6 +15,11 @@ $(document).ready(function() {
     	{
             name: 'cbd',
             link: 'https://steamcommunity.com/id/ballsenjoyerpl/'
+        },
+
+        {
+            name: 'zee',
+            link: 'https://steamcommunity.com/id/nucleoplasmic/'
     },
     ];
 
